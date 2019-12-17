@@ -1,0 +1,6 @@
+robotApiAddress = http://office.chatbot.cn:29006
+robotId = 5d3baecfd05709117bb1320e
+input = data/input.xls
+output = data/out.xls
+userId = 批量测试１
+thread = 5
